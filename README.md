@@ -1,7 +1,7 @@
 # agentic-soc-portfolio
 AI-assisted SOC incident response project — 7-phase NIST lifecycle
 # Agentic SOC Portfolio
-**Owner:** Albert [Your Last Name]
+**Owner:** Albert Pinpin
 **Built:** April 2026
 **Purpose:** Self-initiative project demonstrating a 7-phase 
 AI-assisted SOC incident response pipeline — no installs, 
@@ -38,7 +38,7 @@ Blue Team Labs Online · CyberDefenders
 
 ## Portfolio Evidence
 
-- [SOC Playbook](paste your Gist URL here)
+- [SOC Playbook] https://github.com/AVPin2/agentic-soc-portfolio
 - Case 001 — Incident Report (coming Day 12)
 - Screenshots (coming Day 7)
 
